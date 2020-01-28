@@ -1,0 +1,23 @@
+﻿<Page x:Class="ChessGame_PI_FinalProject.PlayPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ChessGame_PI_FinalProject"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PlayPage">
+    <StackPanel>
+        <StackPanel>
+            <Label Foreground="White" FontStyle="Oblique">Enter first Player's Name:</Label>
+            <TextBox x:Name="textbox1" Margin="0 10 0 0" VerticalAlignment="Center" ></TextBox>
+        </StackPanel>
+        <StackPanel>
+            <Label Foreground="White" FontStyle="Oblique"> Enter second Player's Name: </Label>
+            <TextBox x:Name="textbox2"  VerticalAlignment="Center" ></TextBox>
+            <Image Source="pack://application:,,,/ChessResources/King.png"></Image>
+            <StackPanel/>
+            <Button Click="Button_Click" Width="100" VerticalAlignment ="Center" Padding="10" Content="Start" Background="Aqua"></Button>
+        </StackPanel>
+    </StackPanel>
+</Page>

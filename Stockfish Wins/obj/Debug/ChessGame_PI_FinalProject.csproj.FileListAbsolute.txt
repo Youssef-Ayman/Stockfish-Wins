@@ -1,0 +1,93 @@
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.exe.config
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.exe
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.pdb
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csprojAssemblyReference.cache
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\App.g.cs
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject_MarkupCompile.cache
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject_MarkupCompile.lref
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\MainWindow.baml
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.g.resources
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.Properties.Resources.resources
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csproj.GenerateResource.cache
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.exe
+C:\Users\draym\source\repos\ChessGame_PI_FinalProject\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.pdb
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.exe.config
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.exe
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.pdb
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\App.g.cs
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject_MarkupCompile.cache
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject_MarkupCompile.lref
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.g.resources
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.Properties.Resources.resources
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.exe
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.pdb
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\HomeWindow.g.cs
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\HomeWindow.baml
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\PlayPage.g.cs
+C:\Users\User\Desktop\ChessPIProject\Send\ChessGame_PI_FinalProject\obj\Debug\PlayPage.baml
+E:\Send\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.exe.config
+E:\Send\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.exe
+E:\Send\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.pdb
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csprojAssemblyReference.cache
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\HomeWindow.g.cs
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\MainWindow.g.cs
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\PlayPage.g.cs
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\App.g.cs
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject_MarkupCompile.cache
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject_MarkupCompile.lref
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\HomeWindow.baml
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\MainWindow.baml
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\PlayPage.baml
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.g.resources
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.Properties.Resources.resources
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csproj.GenerateResource.cache
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.exe
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.pdb
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\RulesPage.g.cs
+E:\Send\ChessGame_PI_FinalProject\obj\Debug\RulesPage.baml
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.exe.config
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.exe
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.pdb
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csprojAssemblyReference.cache
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\App.g.cs
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject_MarkupCompile.cache
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject_MarkupCompile.lref
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.g.resources
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.Properties.Resources.resources
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csproj.GenerateResource.cache
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.exe
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.pdb
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\View\HomeWindow.g.cs
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\View\MainWindow.g.cs
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\View\PlayPage.g.cs
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\View\RulesPage.g.cs
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\View\HomeWindow.baml
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\View\MainWindow.baml
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\View\PlayPage.baml
+C:\Users\Youssef\Desktop\PI_Project_Final\ChessGame_PI_FinalProject\obj\Debug\View\RulesPage.baml
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.exe.config
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.exe
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\bin\Debug\ChessGame_PI_FinalProject.pdb
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csprojAssemblyReference.cache
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\View\HomeWindow.g.cs
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\View\MainWindow.g.cs
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\View\PlayPage.g.cs
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\View\RulesPage.g.cs
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\App.g.cs
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject_MarkupCompile.cache
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject_MarkupCompile.lref
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\View\HomeWindow.baml
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\View\MainWindow.baml
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\View\PlayPage.baml
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\View\RulesPage.baml
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.g.resources
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.Properties.Resources.resources
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.csproj.GenerateResource.cache
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.exe
+C:\Users\Youssef\Desktop\Chess Project\ChessGame_PI_FinalProject\obj\Debug\ChessGame_PI_FinalProject.pdb
