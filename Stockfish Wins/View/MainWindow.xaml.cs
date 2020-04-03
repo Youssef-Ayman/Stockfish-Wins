@@ -43,7 +43,7 @@ namespace ChessGame_PI_FinalProject
         }
         private void Draw()
         {
-            MessageBox.Show("Draw by Stalemate!");
+            MessageBox.Show("Draw");
             this.Close();
         }
         private void ChessBoard_Changed(object sender, EventArgs e)
